@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="support-v4-25.1.0">
+    <CLASSES>
+      <root url="file://C:/tmp/T02.05-Exercise-CreateAsyncTask/app/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/res" />
+      <root url="jar://C:/tmp/T02.05-Exercise-CreateAsyncTask/app/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

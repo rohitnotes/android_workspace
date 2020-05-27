@@ -1,0 +1,2 @@
+rootProject.name='Sec_5_JsonExample'
+include ':app'

@@ -1,0 +1,3 @@
+rootProject.name='Sec_13_PhoneWearComm'
+include ':mobile'
+include ':wear'

@@ -1,0 +1,2 @@
+rootProject.name='Sec_13_WearHello'
+include ':app'
